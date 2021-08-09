@@ -5,6 +5,9 @@ construct_filenames/
 ~$*.xls*
 *.xlk
 ~$*.ppt*
+.idea
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
