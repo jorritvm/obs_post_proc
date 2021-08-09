@@ -1,3 +1,11 @@
+# USER DEFINED
+construct_filenames/
+*.tmp
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
